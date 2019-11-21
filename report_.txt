@@ -1,0 +1,732 @@
+aarem
+  pdf-stapler
+    (→ PY2)
+    python2-staplelib (→ PY2)
+  python-PyPDF2
+    python2-PyPDF2 (→ PY2)
+  python2-more-itertools
+    (→ PY2)
+abbot
+  protobuf
+    python2-protobuf (→ PY2)
+abompard
+  python-mako
+    python2-mako (→ PY2)
+  python-pysocks
+    python2-pysocks (→ PY2)
+  python-urllib3
+    python2-urllib3 (→ PY2)
+alsadi
+  dumb-init
+    (BuildRequires: python2-mock → PY2)
+amluto
+  python-musicbrainzngs
+    python2-musicbrainzngs (→ PY2)
+apevec
+  pyparsing
+    python2-pyparsing (→ PY2)
+  python-distutils-extra
+    python2-distutils-extra (→ PY2)
+  python-pbr
+    python2-pbr (→ PY2)
+  python-prettytable
+    python2-prettytable (→ PY2)
+aviso
+  python-configparser
+    python2-configparser (→ PY2)
+  python-scandir
+    python2-scandir (→ PY2)
+beckerde
+  miniupnpc
+    python2-miniupnpc (→ PY2)
+bowlofeggs
+  python-mako
+    python2-mako (→ PY2)
+  python-pycodestyle
+    python2-pycodestyle (→ PY2)
+  rocket-depot
+    (→ PY2)
+brouhaha
+  python-attrs
+    python2-attrs (→ PY2)
+  python-enum34
+    python2-enum34 (→ PY2)
+bsjones
+  python-poppler-qt4
+    (BuildRequires: PyQt4-devel → PyQt4 → PY2)
+carlwgeorge
+  python-subprocess32
+    python2-subprocess32 (→ PY2)
+cheese
+  freeorion
+    (→ PY2)
+churchyard
+  python-pygments
+    python2-pygments (→ PY2)
+  python2-more-itertools
+    (→ PY2)
+  python2-pluggy
+    (→ PY2)
+  python2-pytest
+    (→ PY2)
+cicku
+  exaile
+    (→ PY2)
+  python-mutagen
+    python2-mutagen (→ PY2)
+clalance
+  python-prettytable
+    python2-prettytable (→ PY2)
+corsepiu
+  k3d
+    (→ PY2)
+    k3d-devel (→ k3d → PY2)
+cstratak
+  python-setuptools_scm
+    python2-setuptools_scm (→ PY2)
+ctria
+  configsnap
+    (→ PY2)
+cverna
+  python-mako
+    python2-mako (→ PY2)
+dang
+  nfs-ganesha
+    (BuildRequires: python2-qt5-devel → python2-sip-devel → PY2)
+deji
+  exaile
+    (→ PY2)
+  mpich
+    python2-mpich (→ PY2)
+  openmpi
+    python2-openmpi (→ PY2)
+denisarnaud
+  boost
+    boost-mpich-python2 (→ PY2)
+    boost-mpich-python2-devel (→ boost-mpich-python2 → PY2)
+    boost-numpy2 (→ PY2)
+    boost-openmpi-python2 (→ PY2)
+    boost-openmpi-python2-devel (→ boost-openmpi-python2 → PY2)
+    boost-python2 (→ PY2)
+    boost-python2-devel (→ boost-python2 → PY2)
+devos
+  nfs-ganesha
+    (BuildRequires: python2-qt5-devel → python2-sip-devel → PY2)
+dledford
+  openmpi
+    python2-openmpi (→ PY2)
+dmalcolm
+  squeal
+    (→ PY2)
+dwrobel
+  dxf2gcode
+    (BuildRequires: python2-qt5-base → PY2)
+ersin
+  ddiskit
+    (→ PY2)
+fab
+  captcp
+    (→ PY2)
+  python-distutils-extra
+    python2-distutils-extra (→ PY2)
+  scons
+    python2-scons (→ PY2)
+fale
+  python-lxml
+    python2-lxml (→ PY2)
+farnz
+  python-gstreamer1
+    python2-gstreamer1 (→ PY2)
+filiperosset
+  python-empy
+    python2-empy (→ PY2)
+fschwarz
+  python-pyside
+    python-pyside-devel (→ python2-pyside → PY2)
+    python2-pyside (→ PY2)
+  shiboken
+    (→ shiboken-python2-libs → PY2)
+    shiboken-python2-devel (→ PY2)
+    shiboken-python2-libs (→ PY2)
+gbcox
+  oggify
+    (→ PY2)
+geertj
+  pyside-tools
+    (→ PY2)
+  python-pyside
+    python-pyside-devel (→ python2-pyside → PY2)
+    python2-pyside (→ PY2)
+genodeftest
+  exaile
+    (→ PY2)
+greghellings
+  python-enum34
+    python2-enum34 (→ PY2)
+herczy
+  libuser
+    python2-libuser (→ PY2)
+hguemar
+  python-funcsigs
+    python2-funcsigs (→ PY2)
+hobbes1069
+  pyside-tools
+    (→ PY2)
+  python-pyside
+    python-pyside-devel (→ python2-pyside → PY2)
+    python2-pyside (→ PY2)
+  shiboken
+    (→ shiboken-python2-libs → PY2)
+    shiboken-python2-devel (→ PY2)
+    shiboken-python2-libs (→ PY2)
+ignatenkobrain
+  protobuf
+    python2-protobuf (→ PY2)
+  python-iniparse
+    python2-iniparse (→ PY2)
+  python-lxml
+    python2-lxml (→ PY2)
+  python-mako
+    python2-mako (→ PY2)
+  python-mutagen
+    python2-mutagen (→ PY2)
+  python-setuptools_scm
+    python2-setuptools_scm (→ PY2)
+ilianaw
+  python-backports
+    python2-backports (→ PY2)
+imcleod
+  python-prettytable
+    python2-prettytable (→ PY2)
+irina
+  qpid-proton
+    python2-qpid-proton (→ PY2)
+itamarjp
+  asterisk
+    (→ PY2)
+    asterisk-* (→ asterisk → PY2)
+  asterisk-sounds-core
+    asterisk-sounds-* (→ asterisk → PY2)
+  python-configparser
+    python2-configparser (→ PY2)
+jamatos
+  pyparsing
+    python2-pyparsing (→ PY2)
+  python-configparser
+    python2-configparser (→ PY2)
+jamielinux
+  docco
+    (→ python2-pygments → PY2)
+  nodejs-snockets
+    (BuildRequires: docco → python2-pygments → PY2)
+  nodejs-watchit
+    (BuildRequires: docco → python2-pygments → PY2)
+jcline
+  python-idna
+    python2-idna (→ PY2)
+  python-urllib3
+    python2-urllib3 (→ PY2)
+jeckersb
+  PyYAML
+    python2-pyyaml (→ PY2)
+jfilak
+  python-inotify
+    python2-inotify (→ PY2)
+    python2-inotify-examples (→ PY2)
+jhladky
+  openmpi
+    python2-openmpi (→ PY2)
+jhrozek
+  libuser
+    python2-libuser (→ PY2)
+jiffintt
+  nfs-ganesha
+    (BuildRequires: python2-qt5-devel → python2-sip-devel → PY2)
+jraber
+  gourmet
+    (→ PY2)
+jreznik
+  pyside-tools
+    (→ PY2)
+  python-pyside
+    python-pyside-devel (→ python2-pyside → PY2)
+    python2-pyside (→ PY2)
+  shiboken
+    (→ shiboken-python2-libs → PY2)
+    shiboken-python2-devel (→ PY2)
+    shiboken-python2-libs (→ PY2)
+jsmith
+  asterisk
+    (→ PY2)
+    asterisk-* (→ asterisk → PY2)
+  asterisk-sounds-core
+    asterisk-sounds-core-* (→ asterisk → PY2)
+jspaleta
+  gourmet
+    (→ PY2)
+jsynacek
+  python-pycurl
+    python2-pycurl (→ PY2)
+jujens
+  ccnet
+    (→ PY2)
+    ccnet-devel (→ ccnet → PY2)
+  libsearpc
+    (→ PY2)
+    libsearpc-devel (→ libsearpc → PY2)
+  seafile
+    (→ PY2)
+    seafile-devel (→ seafile → PY2)
+  seafile-client
+    (→ seafile → PY2)
+junghans
+  votca-csg
+    (→ votca-csg-common → PY2)
+    votca-csg-bash (→ votca-csg → votca-csg-common → PY2)
+    votca-csg-common (→ PY2)
+    votca-csg-doc (→ votca-csg-common → PY2)
+  votca-xtp
+    (→ PY2)
+    votca-xtp-doc (→ votca-csg-common → PY2)
+jwakely
+  boost
+    boost-mpich-python2 (→ PY2)
+    boost-mpich-python2-devel (→ boost-mpich-python2 → PY2)
+    boost-numpy2 (→ PY2)
+    boost-openmpi-python2 (→ PY2)
+    boost-openmpi-python2-devel (→ boost-openmpi-python2 → PY2)
+    boost-python2 (→ PY2)
+    boost-python2-devel (→ boost-python2 → PY2)
+jwrdegoede
+  magicor
+    (→ PY2)
+  seahorse-adventures
+    (→ PY2)
+kdudka
+  python-pycurl
+    python2-pycurl (→ PY2)
+kevin
+  python-pysocks
+    python2-pysocks (→ PY2)
+  trac-mercurial-plugin
+    (→ PY2)
+kiilerix
+  hgview
+    (→ PY2)
+    hgview-common (→ PY2)
+    hgview-curses (→ PY2)
+  tortoisehg
+    (→ PY2)
+    tortoisehg-nautilus (→ tortoisehg → PY2)
+kkeithle
+  nfs-ganesha
+    (BuildRequires: python2-qt5-devel → python2-sip-devel → PY2)
+konradm
+  pyifp
+    (→ PY2)
+kumarpraveen
+  python-mock
+    python2-mock (→ PY2)
+kylev
+  python-mako
+    python2-mako (→ PY2)
+landgraf
+  mailman
+    (→ PY2)
+lbazan
+  archmage
+    (→ PY2)
+lfield
+  glue-validator
+    (→ PY2)
+limb
+  angrydd
+    (→ PY2)
+  archivemail
+    (→ PY2)
+  findthatword
+    (→ PY2)
+  monsterz
+    (→ PY2)
+  slingshot
+    (→ PY2)
+  trac-mercurial-plugin
+    (→ PY2)
+linkdupont
+  freeorion
+    (→ PY2)
+lkundrak
+  system-config-rootpassword
+    (→ python2-libuser → PY2)
+lmacken
+  python-mako
+    python2-mako (→ PY2)
+lotharlutz
+  getmail
+    (→ PY2)
+lupinix
+  python-iniparse
+    python2-iniparse (→ PY2)
+lzap
+  pagekite
+    (→ PY2)
+  python-socksipychain
+    python2-socksipychain (→ PY2)
+mathstuf
+  python-atomicwrites
+    python2-atomicwrites (→ PY2)
+mbaldessari
+  python-atomicwrites
+    python2-atomicwrites (→ PY2)
+  python-dpkt
+    python2-dpkt (→ PY2)
+  python-mutagen
+    python2-mutagen (→ PY2)
+melmorabity
+  x-tile
+    (→ PY2)
+mikeb
+  python-cheetah
+    python2-cheetah (→ PY2)
+mitr
+  audit-viewer
+    (→ python2-audit → PY2)
+  libuser
+    python2-libuser (→ PY2)
+  python-gtkextra
+    python2-gtkextra (→ PY2)
+mizdebsk
+  protobuf
+    python2-protobuf (→ PY2)
+  python-lxml
+    python2-lxml (→ PY2)
+moceap
+  scons
+    python2-scons (→ PY2)
+  tuxcut
+    (→ PyQt4 → PY2)
+moezroy
+  fslint
+    (→ PY2)
+  python-mutagen
+    python2-mutagen (→ PY2)
+mrunge
+  python-pbr
+    python2-pbr (→ PY2)
+  python-py
+    python2-py (→ PY2)
+  python2-pluggy
+    (→ PY2)
+  python2-pytest
+    (→ PY2)
+mruszczyk
+  whipper
+    (→ PY2)
+msekleta
+  python-pycurl
+    python2-pycurl (→ PY2)
+mskalick
+  python-cheetah
+    python2-cheetah (→ PY2)
+  scons
+    python2-scons (→ PY2)
+nbecker
+  git-remote-hg
+    (→ PY2)
+  tortoisehg
+    (→ PY2)
+    tortoisehg-nautilus (→ tortoisehg → PY2)
+nrhodes
+  configsnap
+    (→ PY2)
+nsoffer
+  python-subprocess32
+    python2-subprocess32 (→ PY2)
+oddshocks
+  python-q
+    python2-q (→ PY2)
+ooprala
+  git-remote-hg
+    (→ PY2)
+orion
+  openmpi
+    python2-openmpi (→ PY2)
+  python-pycodestyle
+    python2-pycodestyle (→ PY2)
+  python-setuptools_scm
+    python2-setuptools_scm (→ PY2)
+panovotn
+  python-cheetah
+    python2-cheetah (→ PY2)
+  scons
+    python2-scons (→ PY2)
+patches
+  docco
+    (→ python2-pygments → PY2)
+  nodejs-snockets
+    (BuildRequires: docco → python2-pygments → PY2)
+  nodejs-watchit
+    (BuildRequires: docco → python2-pygments → PY2)
+pbrady
+  fslint
+    (→ PY2)
+pcahyna
+  git-remote-hg
+    (→ PY2)
+pcpa
+  miniupnpc
+    python2-miniupnpc (→ PY2)
+  python-pathlib2
+    python2-pathlib2 (→ PY2)
+peter
+  b43-openfwwf
+    (BuildRequires: b43-tools → PY2)
+  protobuf
+    python2-protobuf (→ PY2)
+pgordon
+  gourmet
+    (→ PY2)
+pkfed
+  openmpi
+    python2-openmpi (→ PY2)
+plambri
+  sx
+    (→ PY2)
+poros
+  ddiskit
+    (→ PY2)
+psklenar
+  proxyfuzz
+    (→ PY2)
+pstodulk
+  git-remote-hg
+    (→ PY2)
+pwalter
+  b43-tools
+    (→ PY2)
+  miniupnpc
+    python2-miniupnpc (→ PY2)
+pwouters
+  python-pydns
+    python2-pydns (→ PY2)
+ralph
+  python-funcsigs
+    python2-funcsigs (→ PY2)
+  python-pysocks
+    python2-pysocks (→ PY2)
+  python-q
+    python2-q (→ PY2)
+  python-zmq
+    python2-zmq (→ PY2)
+    python2-zmq-tests (→ PY2)
+raphgro
+  pdf-stapler
+    (→ PY2)
+    python2-staplelib (→ PY2)
+rdieter
+  PyQt4
+    (→ PY2)
+    PyQt4-devel (→ PyQt4 → PY2)
+    PyQt4-webkit (→ PY2)
+  pyside-tools
+    (→ PY2)
+  python-pyside
+    python-pyside-devel (→ python2-pyside → PY2)
+    python2-pyside (→ PY2)
+  python-qt5
+    python2-qt5 (→ PY2)
+    python2-qt5-base (→ PY2)
+    python2-qt5-devel (→ python2-sip-devel → PY2)
+    python2-qt5-webkit (→ PY2)
+  qscintilla
+    python2-qscintilla (→ PY2)
+    python2-qscintilla-devel (→ PyQt4-devel → PyQt4 → PY2)
+    python2-qscintilla-qt5 (→ PY2)
+    python2-qscintilla-qt5-devel (→ python2-qt5-devel → python2-sip-devel → PY2)
+  shiboken
+    (→ shiboken-python2-libs → PY2)
+    shiboken-python2-devel (→ PY2)
+    shiboken-python2-libs (→ PY2)
+  sip
+    python2-pyqt4-sip (→ PY2)
+    python2-pyqt5-sip (→ PY2)
+    python2-sip-devel (→ PY2)
+    python2-wx-siplib (→ PY2)
+reaperzn
+  configsnap
+    (→ PY2)
+rebus
+  python-volatility
+    python2-volatility (→ PY2)
+remi
+  glpi
+    (→ macromilter → PY2)
+  php-horde-horde
+    (→ macromilter → PY2)
+  php-horde-imp
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-ingo
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-kronolith
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-mnemo
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-nag
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-passwd
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-turba
+    (→ php-horde-horde → macromilter → PY2)
+  php-horde-wicked
+    (→ php-horde-horde → macromilter → PY2)
+ricky
+  getmail
+    (→ PY2)
+rmattes
+  gazebo
+    (BuildRequires: python2-pyopengl → PY2)
+robert
+  macromilter
+    (→ PY2)
+robled
+  rocket-depot
+    (→ PY2)
+ron
+  samtools
+    (→ PY2)
+rtsisyk
+  tarantool
+    (BuildRequires: python2-pyyaml → PY2)
+russellb
+  asterisk
+    (→ PY2)
+    asterisk-* (→ asterisk → PY2)
+s4504kr
+  scons
+    python2-scons (→ PY2)
+sagarun
+  python-urllib3
+    python2-urllib3 (→ PY2)
+sagitter
+  avogadro
+    (BuildRequires: python2-sip-devel → PY2)
+  scons
+    python2-scons (→ PY2)
+  seqan2
+    (BuildRequires: python2-pytest → PY2)
+salimma
+  python-scandir
+    python2-scandir (→ PY2)
+sergiomb
+  gdesklets
+    (→ PY2)
+sgrubb
+  audit
+    python2-audit (→ PY2)
+sharkcz
+  pyparsing
+    python2-pyparsing (→ PY2)
+skoduri
+  nfs-ganesha
+    (BuildRequires: python2-qt5-devel → python2-sip-devel → PY2)
+smilner
+  python-pygments
+    python2-pygments (→ PY2)
+stevetraylen
+  glue-validator
+    (→ PY2)
+  python-inotify
+    python2-inotify (→ PY2)
+    python2-inotify-examples (→ PY2)
+  python-setuptools_scm
+    python2-setuptools_scm (→ PY2)
+stingray
+  pyserial
+    python2-pyserial (→ PY2)
+sundaram
+  gif2png
+    web2png (→ PY2)
+swt2c
+  python-pyopengl
+    python2-pyopengl (→ PY2)
+terjeros
+  pyparsing
+    python2-pyparsing (→ PY2)
+  python-inotify
+    python2-inotify (→ PY2)
+    python2-inotify-examples (→ PY2)
+than
+  PyQt4
+    (→ PY2)
+    PyQt4-devel (→ PyQt4 → PY2)
+    PyQt4-webkit (→ PY2)
+  pyside-tools
+    (→ PY2)
+  python-pyside
+    python-pyside-devel (→ python2-pyside → PY2)
+    python2-pyside (→ PY2)
+  python-qt5
+    python2-qt5 (→ PY2)
+    python2-qt5-base (→ PY2)
+    python2-qt5-devel (→ python2-sip-devel → PY2)
+    python2-qt5-webkit (→ PY2)
+  shiboken
+    (→ shiboken-python2-libs → PY2)
+    shiboken-python2-devel (→ PY2)
+    shiboken-python2-libs (→ PY2)
+  sip
+    python2-pyqt4-sip (→ PY2)
+    python2-pyqt5-sip (→ PY2)
+    python2-sip-devel (→ PY2)
+    python2-wx-siplib (→ PY2)
+thm
+  python-py
+    python2-py (→ PY2)
+  python2-pluggy
+    (→ PY2)
+  python2-pytest
+    (→ PY2)
+  viewmtn
+    (→ python2-cheetah → PY2)
+tibbs
+  python2-pytest
+    (→ PY2)
+tomspur
+  python-zmq
+    python2-zmq (→ PY2)
+    python2-zmq-tests (→ PY2)
+  shedskin
+    (→ PY2)
+toshio
+  python-q
+    python2-q (→ PY2)
+trasher
+  glpi
+    (→ macromilter → PY2)
+  iipsrv
+    (→ macromilter → PY2)
+    iipsrv-httpd-fcgi (→ iipsrv → macromilter → PY2)
+ttorling
+  python-mock
+    python2-mock (→ PY2)
+  python-pysocks
+    python2-pysocks (→ PY2)
+uggla
+  python-colorclass
+    python2-colorclass (→ PY2)
+verdurin
+  minicomputer
+    (BuildRequires: python2-scons → PY2)
+  mmseq
+    (→ samtools → PY2)
+  samtools
+    (→ PY2)
+wtaymans
+  python-gstreamer1
+    python2-gstreamer1 (→ PY2)
+xaeth
+  python-augeas
+    python2-augeas (→ PY2)
+zbyszek
+  mpich
+    python2-mpich (→ PY2)
